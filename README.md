@@ -2,7 +2,8 @@
 
 ## Project setup
 ```
-npm install
+npm install -g npm
+npm install npm@latest
 ```
 
 ### Compiles and hot-reloads for development
