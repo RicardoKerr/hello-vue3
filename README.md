@@ -1,9 +1,14 @@
-# hello-vue3
+# hello-world-vue3
 
 ## Project setup
 ```
 npm install -g npm
 npm install npm@latest
+npm install --global yarn
+npm install node
+yarn install
+npm install -g@vue/cli
+
 ```
 
 ### Compiles and hot-reloads for development
